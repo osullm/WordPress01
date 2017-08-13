@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-12-07 21:10:04+0000\n"
+"PO-Revision-Date: 2017-07-23 20:25:45+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -638,7 +638,7 @@ msgstr "子目录网络可能无法与自定义的wp-content目录完全兼容�
 
 #: wp-admin/network.php:62
 msgid "Add the designated lines of code to wp-config.php (just before <code>/*...stop editing...*/</code>) and <code>.htaccess</code> (replacing the existing WordPress rules)."
-msgstr "加入如下内容到 wp-config.php（在<code>/*...stop editing...*/或/*...停止编辑...*/</code>上方）和<code>.htaccess</code>（替换WordPress原来生成的内容）。"
+msgstr "加入如下内容到wp-config.php（在<code>/*...stop editing...*/或/*...停止编辑...*/</code>上方）和<code>.htaccess</code>（替换WordPress原来生成的内容）。"
 
 #: wp-admin/network/settings.php:35
 msgid "Super admins can no longer be added on the Options screen. You must now go to the list of existing users on Network Admin > Users and click on Username or the Edit action link below that name. This goes to an Edit User page where you can check a box to grant super admin privileges."

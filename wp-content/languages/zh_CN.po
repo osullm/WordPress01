@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-07-23 09:16:23+0000\n"
+"PO-Revision-Date: 2017-08-04 07:53:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36,35 +36,39 @@ msgstr ","
 msgid "number_format_decimal_point"
 msgstr "."
 
-#: wp-includes/widgets/class-wp-widget-text.php:395
+#: wp-includes/widgets/class-wp-widget-text.php:366
+msgid "This widget may have contained code that may work better in the new &#8220;Custom HTML&#8221; widget. If you haven&#8217;t yet, how about trying that widget instead?"
+msgstr "这个小工具里的代码可能更适合放在“自定义HTML”小工具里。如果您还没有用过，推荐试用“自定义HTML”小工具。"
+
+#: wp-includes/widgets/class-wp-widget-text.php:419
 msgid "Hey there, looks like you just pasted HTML into the &#8220;Visual&#8221; tab of the Text widget. You may want to paste your code into the &#8220;Text&#8221; tab instead. Alternately, try out the new &#8220;Custom HTML&#8221; widget!"
-msgstr "您粘贴到可视化编辑器的内容中似乎含有 HTML 代码。如果确实包含 HTML 代码，您可以切换到“文本”模式，然后再粘贴一次。或者您可以试用我们新的“自定义 HTML”小工具。"
+msgstr "您粘贴到可视化编辑器的内容中似乎含有HTML代码。如果确实包含HTML代码，您可以切换到“文本”模式，然后再粘贴一次。或者您可以试用我们新的“自定义HTML”小工具。"
 
-#: wp-includes/widgets/class-wp-widget-text.php:394
+#: wp-includes/widgets/class-wp-widget-text.php:418
 msgid "Did you just paste HTML?"
-msgstr "您粘贴的是 HTML 吗？"
+msgstr "您粘贴的是HTML吗？"
 
-#: wp-includes/widgets/class-wp-widget-text.php:379
+#: wp-includes/widgets/class-wp-widget-text.php:403
 msgid "Hey, did you hear we have a &#8220;Custom HTML&#8221; widget now? You can find it by scanning the list of available widgets on this screen. Check it out to add some custom code to your site!"
-msgstr "您知道 WordPress 新增了“自定义 HTML”小工具了吗？您可以在这个页面上的小工具列表里找到它，然后试试使用这个小工具往您的网站添加 HTML 代码。"
+msgstr "您知道WordPress新增了“自定义HTML”小工具了吗？您可以在这个页面上的小工具列表里找到它，然后试试使用这个小工具往您的网站添加HTML代码。"
 
-#: wp-includes/widgets/class-wp-widget-text.php:377
+#: wp-includes/widgets/class-wp-widget-text.php:401
 msgid "Hey, did you hear we have a &#8220;Custom HTML&#8221; widget now? You can find it by pressing the &#8220;<a class=\"add-widget\" href=\"#\">Add a Widget</a>&#8221; button and searching for &#8220;HTML&#8221;. Check it out to add some custom code to your site!"
-msgstr "您知道 WordPress 新增了“自定义 HTML”小工具了吗？您可以点“<a class=\"add-widget\" href=\"#\">添加小工具</a>”按钮，然后搜索关键词“HTML”，然后试试使用这个小工具往您的网站添加 HTML 代码。"
+msgstr "您知道WordPress新增了“自定义HTML”小工具了吗？您可以点“<a class=\"add-widget\" href=\"#\">添加小工具</a>”按钮，然后搜索关键词“HTML”，然后试试使用这个小工具往您的网站添加HTML代码。"
 
-#: wp-includes/widgets/class-wp-widget-text.php:375
+#: wp-includes/widgets/class-wp-widget-text.php:399
 msgid "New Custom HTML Widget"
 msgstr "新自定义HTML小工具"
 
-#: wp-includes/widgets/class-wp-widget-text.php:343
+#: wp-includes/widgets/class-wp-widget-text.php:364
 msgid "This widget may contain code that may work better in the new &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
-msgstr "检测到这个小工具里含有代码等特殊内容。您想试试新的“自定义 HTML”小工具吗？"
+msgstr "检测到这个小工具里含有代码等特殊内容。您想试试新的“自定义HTML”小工具吗？"
 
 #: wp-includes/widgets/class-wp-widget-text.php:36
 msgid "Arbitrary text."
 msgstr "任意文字。"
 
-#: wp-includes/default-widgets.php:199
+#: wp-includes/default-widgets.php:207
 msgid "Some HTML tags are not permitted, including:"
 msgstr "不允许使用某些HTML标记，其中包括："
 
@@ -83,7 +87,7 @@ msgstr "显示标签计数"
 #: wp-includes/category-template.php:806 wp-includes/category-template.php:815
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] "%s 个项目"
+msgstr[0] "%s个项目"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget"
@@ -135,7 +139,7 @@ msgstr "发生了一个错误，请重试。"
 
 #: wp-includes/script-loader.php:1039
 msgid "Enter your closest city to find nearby events."
-msgstr "键入距离你最近的城市来查找附近的活动。"
+msgstr "键入距离您最近的城市来查找附近的活动。"
 
 #: wp-includes/script-loader.php:360
 msgctxt "no captions/subtitles"
@@ -165,7 +169,7 @@ msgstr "该站点网络目前不接受任何新注册。"
 
 #: wp-signup.php:821
 msgid "Greetings Network Administrator!"
-msgstr "你好，网络管理员！"
+msgstr "您好，网络管理员！"
 
 #: wp-includes/widgets/class-wp-widget-media.php:151
 msgid "Title for the widget"
@@ -173,11 +177,11 @@ msgstr "小工具标题"
 
 #: wp-includes/widgets/class-wp-widget-media.php:145
 msgid "URL to the media file"
-msgstr "媒体 URL"
+msgstr "媒体URL"
 
 #: wp-includes/widgets/class-wp-widget-media.php:138
 msgid "Attachment post ID"
-msgstr "附件文章 ID"
+msgstr "附件文章ID"
 
 #: wp-includes/widgets/class-wp-widget-media.php:80
 msgid "Looks like this isn&#8217;t the correct kind of file. Please link to an appropriate file instead."
@@ -223,12 +227,12 @@ msgstr "单个媒体项目。"
 #. translators: placeholder is video extension
 #: wp-includes/widgets/class-wp-widget-media-video.php:93
 msgid "URL to the %s video source file"
-msgstr "%s 格式的视频源文件 URL"
+msgstr "%s格式的视频源文件URL"
 
 #. translators: placeholder is a list of valid video file extensions
 #: wp-includes/widgets/class-wp-widget-media-video.php:45
 msgid "Sorry, we can&#8217;t display the video file type selected. Please select a supported video file (%1$s) or stream (YouTube or Vimeo) instead."
-msgstr "抱歉，不能显示您选择的视频文件格式。请选择一个兼容的格式（%1$s）或者支持的视频网站（比如 YouTube 或 Vimeo）。"
+msgstr "抱歉，不能显示您选择的视频文件格式。请选择一个兼容的格式（%1$s）或者支持的视频网站（比如YouTube或Vimeo）。"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:43
 msgid "Video Widget"
@@ -257,7 +261,7 @@ msgstr "替换视频"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:27
 msgid "Displays a video from the media library or from YouTube, Vimeo, or another provider."
-msgstr "显示存在媒体库的视频，或者 YouTube 等视频网站上的视频。"
+msgstr "显示存在媒体库的视频，或者YouTube等视频网站上的视频。"
 
 #. translators: placeholder is image filename
 #: wp-includes/widgets/class-wp-widget-media-image.php:332
@@ -302,7 +306,7 @@ msgstr "发生了未知错误，无法预览媒体。"
 #. translators: placeholder is audio extension
 #: wp-includes/widgets/class-wp-widget-media-audio.php:83
 msgid "URL to the %s audio source file"
-msgstr "%s 格式的音频源文件 URL"
+msgstr "%s格式的音频源文件URL"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:44
 msgid "Looks like this isn&#8217;t the correct kind of file. Please link to an audio file instead."
@@ -365,31 +369,31 @@ msgstr "已安装！"
 #: wp-includes/script-loader.php:672
 msgctxt "plugin"
 msgid "Install %s now"
-msgstr "立即安装 %s"
+msgstr "立即安装%s"
 
 #. translators: %s: Plugin name and version
 #: wp-includes/script-loader.php:662
 msgctxt "plugin"
 msgid "%s update failed"
-msgstr "%s 更新失败"
+msgstr "%s更新失败"
 
 #. translators: %s: Plugin name and version
 #: wp-includes/script-loader.php:660
 msgctxt "plugin"
 msgid "%s updated!"
-msgstr "%s 已更新！"
+msgstr "%s已更新！"
 
 #. translators: %s: Plugin name and version
 #: wp-includes/script-loader.php:658
 msgctxt "plugin"
 msgid "Updating %s..."
-msgstr "正在更新 %s..."
+msgstr "正在更新%s..."
 
 #. translators: %s: Plugin name and version
 #: wp-includes/script-loader.php:653
 msgctxt "plugin"
 msgid "Update %s now"
-msgstr "立即更新 %s"
+msgstr "立即更新%s"
 
 #: wp-includes/script-loader.php:649
 msgctxt "theme"
@@ -402,24 +406,24 @@ msgid "Updated!"
 msgstr "已更新！"
 
 #. translators: 1: parameter, 2: maximum number
-#: wp-includes/rest-api.php:1122
+#: wp-includes/rest-api.php:1127
 msgid "%1$s must be less than or equal to %2$d"
-msgstr "%1$s 必须小于或等于 %2$d"
+msgstr "%1$s必须小于或等于%2$d"
 
 #. translators: 1: parameter, 2: maximum number
-#: wp-includes/rest-api.php:1119
+#: wp-includes/rest-api.php:1124
 msgid "%1$s must be less than %2$d"
-msgstr "%1$s 必须小于 %2$d"
+msgstr "%1$s必须小于%2$d"
 
 #. translators: 1: parameter, 2: minimum number
-#: wp-includes/rest-api.php:1114
+#: wp-includes/rest-api.php:1119
 msgid "%1$s must be greater than or equal to %2$d"
-msgstr "%1$s 必须大于或等于 %2$d"
+msgstr "%1$s必须大于或等于%2$d"
 
 #. translators: 1: parameter, 2: minimum number
-#: wp-includes/rest-api.php:1111
+#: wp-includes/rest-api.php:1116
 msgid "%1$s must be greater than %2$d"
-msgstr "%1$s 必须大于 %2$d"
+msgstr "%1$s必须大于%2$d"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1361
 msgid "Limit result set to users with one or more specific slugs."
@@ -489,7 +493,7 @@ msgstr "特色图片"
 #. translators: 1: $sanitize_callback, 2: register_setting()
 #: wp-includes/option.php:1989
 msgid "%1$s is deprecated. The callback from %2$s is used instead."
-msgstr "%1$s 已被弃用。请给 %2$s 提供一个回调函数。"
+msgstr "%1$s已被弃用。请给%2$s提供一个回调函数。"
 
 #: wp-includes/media.php:3523 wp-includes/script-loader.php:80
 msgid ""
@@ -514,7 +518,7 @@ msgstr ""
 #. translators: 1: suggested width number, 2: suggested height number.
 #: wp-includes/media-template.php:240 wp-includes/media.php:3572
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
-msgstr "建议的图片尺寸：%1$s x %2$s 像素。"
+msgstr "建议的图片尺寸：%1$s x %2$s像素。"
 
 #: wp-includes/functions.php:2132 wp-includes/script-loader.php:283
 msgid "Sorry, this file type is not permitted for security reasons."
@@ -523,33 +527,33 @@ msgstr "抱歉，由于安全原因，这个文件类型不受支持。"
 #. translators: 1: *​/, 2: /​*
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:248
 msgid "There is an extra %1$s, indicating an end to a comment. Be sure that there is an opening %2$s for every closing %1$s."
-msgstr "发现了一个多余的 %1$s（代码注释结束标记）。请确保每一个开头 %2$s 都有对应的 %1$s。"
+msgstr "发现了一个多余的%1$s（代码注释结束标记）。请确保每一个开头%2$s都有对应的%1$s。"
 
 #. translators: 1: number of unclosed comments, 2: *​/
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:236
 msgid "There is %1$s unclosed code comment. Close each comment with %2$s."
 msgid_plural "There are %1$s unclosed code comments. Close each comment with %2$s."
-msgstr[0] "有 %1$s 个未闭合的代码注释。用 %2$s 来闭合代码注释。"
+msgstr[0] "有%1$s个未闭合的代码注释。用%2$s来闭合代码注释。"
 
 #. translators: 1: " (double quote)
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:216
 msgid "Your double quotes %1$s are uneven. Make sure there is a closing %1$s for every opening %1$s."
-msgstr "你的双引号 %1$s 不成对。确保每一个开头 %1$s 都有一个对应的结尾 %1$s 。"
+msgstr "您的双引号%1$s不成对。确保每一个前引号%1$s都有一个对应的后引号%1$s 。"
 
 #. translators: 1: (), 2: ), 3: (
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:204
 msgid "Your parentheses %1$s are imbalanced. Make sure there is a closing %2$s for every opening %3$s."
-msgstr "你的小括号 %1$s 不成对。确保每一个开头 %2$s 都有一个对应的结尾 %3$s 。"
+msgstr "您的小括号%1$s不成对。确保每一个左括号%2$s都有一个对应的右括号%3$s 。"
 
 #. translators: 1: [], 2: ], 3: [
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:192
 msgid "Your brackets %1$s are imbalanced. Make sure there is a closing %2$s for every opening %3$s."
-msgstr "你的中括号 %1$s 不成对。确保每一个开头 %2$s 都有一个对应的结尾 %3$s 。 "
+msgstr "您的中括号%1$s不成对。确保每一个左括号%2$s都有一个对应的右括号%3$s 。"
 
 #. translators: 1: {}, 2: }, 3: {
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:180
 msgid "Your curly brackets %1$s are imbalanced. Make sure there is a closing %2$s for every opening %3$s."
-msgstr "你的大括号 %1$s 不成对。确保每一个开头 %2$s 都有一个对应的结尾 %3$s 。"
+msgstr "您的大括号%1$s不成对。确保每一个左括号%2$s都有一个对应的右括号%3$s 。"
 
 #: wp-includes/comment.php:3010
 msgid "Sorry, comments are not allowed for this item."
@@ -573,11 +577,11 @@ msgstr "嵌入的元素的最大宽度（像素）。"
 
 #: wp-includes/class-wp-oembed-controller.php:69
 msgid "The oEmbed format to use."
-msgstr "使用的 oEmbed 格式。"
+msgstr "使用的oEmbed格式。"
 
 #: wp-includes/class-wp-oembed-controller.php:63
 msgid "The URL of the resource for which to fetch oEmbed data."
-msgstr "需要获取 oEmbed 数据的链接。"
+msgstr "需要获取oEmbed数据的链接。"
 
 #: wp-includes/class-wp-editor.php:1143
 msgctxt "Short for blue in RGB"
@@ -617,7 +621,7 @@ msgstr "Id"
 
 #: wp-includes/class-wp-editor.php:1068
 msgid "Id should start with a letter, followed only by letters, numbers, dashes, dots, colons or underscores."
-msgstr "Id 应以字体开头，后面可以是字母、数字、短横线、点、 冒号或下划线。"
+msgstr "Id应以字体开头，后面可以是字母、数字、短横线、点、冒号或下划线。"
 
 #: wp-includes/class-wp-customize-widgets.php:791
 msgid "You can navigate to other pages on your site while using the Customizer to view and edit the widgets displayed on those pages."
@@ -627,7 +631,7 @@ msgstr "使用定制器配置小工具时，您可以随意到其它页面去；
 #: wp-includes/class-wp-customize-widgets.php:770
 msgid "Your theme has %s widget area, but this particular page doesn&#8217;t display it."
 msgid_plural "Your theme has %s widget areas, but this particular page doesn&#8217;t display them."
-msgstr[0] "您的主题有 %s 个小工具区域，但这个页面不显示任何小工具。"
+msgstr[0] "您的主题有%s个小工具区域，但这个页面不显示任何小工具。"
 
 #. translators: placeholder is the total number of widget areas registered
 #: wp-includes/class-wp-customize-widgets.php:765
@@ -639,7 +643,7 @@ msgstr "您的主题有一个小工具区域，但这个页面不显示小工具
 #: wp-includes/class-wp-customize-widgets.php:753
 msgid "Your theme has %s other widget area, but this particular page doesn&#8217;t display it."
 msgid_plural "Your theme has %s other widget areas, but this particular page doesn&#8217;t display them."
-msgstr[0] "您的主题还有 %s 个小工具区域不在这个页面上显示。"
+msgstr[0] "您的主题还有%s个小工具区域不在这个页面上显示。"
 
 #. translators: placeholder is the number of other widget areas registered but
 #. not rendered
@@ -875,7 +879,7 @@ msgid "Invalid slug."
 msgstr "无效的别名。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:606
-#: wp-includes/rest-api.php:1095
+#: wp-includes/rest-api.php:1100
 msgid "Invalid email address."
 msgstr "无效的电子邮件地址。"
 
@@ -892,7 +896,7 @@ msgstr "无效的JSONP回调函数。"
 msgid "Invalid page template."
 msgstr "无效页面模板。"
 
-#: wp-includes/post.php:3136 wp-includes/rest-api.php:1089
+#: wp-includes/post.php:3136 wp-includes/rest-api.php:1094
 msgid "Invalid date."
 msgstr "无效日期。"
 
@@ -904,52 +908,52 @@ msgstr "视频正在播放。"
 msgid "Video is paused."
 msgstr "视频已暂停。"
 
-#: wp-includes/theme.php:1962
+#: wp-includes/theme.php:1966
 msgctxt "Theme starter content"
 msgid "Archives"
 msgstr "存档"
 
-#: wp-includes/theme.php:2084
+#: wp-includes/theme.php:2088
 msgctxt "Theme starter content"
 msgid "This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts."
 msgstr "这是首页章节的范例。首页章节可以是除了首页本身以外的任何其他页面，包括显示最新博客文章的页面。"
 
-#: wp-includes/theme.php:2078
+#: wp-includes/theme.php:2082
 msgctxt "Theme starter content"
 msgid "News"
 msgstr "新闻"
 
-#: wp-includes/theme.php:2070
+#: wp-includes/theme.php:2074
 msgctxt "Theme starter content"
 msgid "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form."
 msgstr "这个页面包含了一些基本的联系资料，像是地址和联系电话。您也可以尝试使用插件增加联系表单。"
 
-#: wp-includes/theme.php:2065
+#: wp-includes/theme.php:2069
 msgctxt "Theme starter content"
 msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
 msgstr "您也许是位创作者，想要在这里介绍自己和自己的作品；或者您是一位商务人士，想在这里谈谈您的业务。"
 
-#: wp-includes/theme.php:2060
+#: wp-includes/theme.php:2064
 msgctxt "Theme starter content"
 msgid "Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time."
 msgstr "欢迎来到您的站点！这是您的主页，也就是大多数访客第一次造访时看到的页面。"
 
-#: wp-includes/theme.php:1977
+#: wp-includes/theme.php:1981
 msgctxt "Theme starter content"
 msgid "Recent Posts"
 msgstr "最近文章"
 
-#: wp-includes/theme.php:1974
+#: wp-includes/theme.php:1978
 msgctxt "Theme starter content"
 msgid "Recent Comments"
 msgstr "最近评论"
 
-#: wp-includes/theme.php:1971
+#: wp-includes/theme.php:1975
 msgctxt "Theme starter content"
 msgid "Meta"
 msgstr "其他"
 
-#: wp-includes/theme.php:1965
+#: wp-includes/theme.php:1969
 msgctxt "Theme starter content"
 msgid "Calendar"
 msgstr "日历"
@@ -1014,37 +1018,37 @@ msgstr "抱歉，您不能阅读此评论。"
 msgid "Sorry, you are not allowed to read comments without a post."
 msgstr "抱歉，您不能阅读没有对应文章的评论。"
 
-#: wp-includes/theme.php:2052
+#: wp-includes/theme.php:2056
 msgctxt "Theme starter content"
 msgid "YouTube"
 msgstr "YouTube"
 
-#: wp-includes/theme.php:2040
+#: wp-includes/theme.php:2044
 msgctxt "Theme starter content"
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: wp-includes/theme.php:2036
+#: wp-includes/theme.php:2040
 msgctxt "Theme starter content"
 msgid "LinkedIn"
 msgstr "领英"
 
-#: wp-includes/theme.php:2028
+#: wp-includes/theme.php:2032
 msgctxt "Theme starter content"
 msgid "GitHub"
 msgstr "GitHub"
 
-#: wp-includes/theme.php:2024
+#: wp-includes/theme.php:2028
 msgctxt "Theme starter content"
 msgid "Foursquare"
 msgstr "Foursquare"
 
-#: wp-includes/theme.php:1959
+#: wp-includes/theme.php:1961
 msgctxt "Theme starter content"
 msgid "This may be a good place to introduce yourself and your site or include some credits."
 msgstr "这里也许是个介绍您自己的好地方，也能介绍您的网站或放进一些工作人员名单。"
 
-#: wp-includes/theme.php:1958
+#: wp-includes/theme.php:1960
 msgctxt "Theme starter content"
 msgid "About This Site"
 msgstr "关于本站"
@@ -1094,62 +1098,62 @@ msgstr "未选择视频"
 msgid "Choose Video"
 msgstr "选择视频"
 
-#: wp-includes/theme.php:2083
+#: wp-includes/theme.php:2087
 msgctxt "Theme starter content"
 msgid "A homepage section"
 msgstr "主页章节"
 
-#: wp-includes/theme.php:2074
+#: wp-includes/theme.php:2078
 msgctxt "Theme starter content"
 msgid "Blog"
 msgstr "博客"
 
-#: wp-includes/theme.php:2069
+#: wp-includes/theme.php:2073
 msgctxt "Theme starter content"
 msgid "Contact"
 msgstr "联系"
 
-#: wp-includes/theme.php:2064
+#: wp-includes/theme.php:2068
 msgctxt "Theme starter content"
 msgid "About"
 msgstr "关于"
 
-#: wp-includes/theme.php:1986 wp-includes/theme.php:2059
+#: wp-includes/theme.php:1990 wp-includes/theme.php:2063
 msgctxt "Theme starter content"
 msgid "Home"
 msgstr "首页"
 
-#: wp-includes/theme.php:2016
+#: wp-includes/theme.php:2020
 msgctxt "Theme starter content"
 msgid "Email"
 msgstr "电邮"
 
-#: wp-includes/theme.php:2032
+#: wp-includes/theme.php:2036
 msgctxt "Theme starter content"
 msgid "Instagram"
 msgstr "Instagram"
 
-#: wp-includes/theme.php:2044
+#: wp-includes/theme.php:2048
 msgctxt "Theme starter content"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: wp-includes/theme.php:2020
+#: wp-includes/theme.php:2024
 msgctxt "Theme starter content"
 msgid "Facebook"
 msgstr "Facebook"
 
-#: wp-includes/theme.php:2048
+#: wp-includes/theme.php:2052
 msgctxt "Theme starter content"
 msgid "Yelp"
 msgstr "Yelp"
 
-#: wp-includes/theme.php:1968
+#: wp-includes/theme.php:1972
 msgctxt "Theme starter content"
 msgid "Categories"
 msgstr "分类"
 
-#: wp-includes/theme.php:1980
+#: wp-includes/theme.php:1984
 msgctxt "Theme starter content"
 msgid "Search"
 msgstr "搜索"
@@ -1301,7 +1305,7 @@ msgstr "传入的JSON体无效。"
 #. translators: %s: taxonomy name
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2207
 msgid "Limit result set to all items except those that have the specified term assigned in the %s taxonomy."
-msgstr "限制结果集为限制结果集为在%s分类法中没有指定特定项目的项目。"
+msgstr "限制结果集为在%s分类法中没有指定特定项目的项目。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2181
 msgid "Limit result set to posts assigned one or more statuses."
@@ -1369,39 +1373,39 @@ msgid "Item selected."
 msgstr "已选择项目。"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
-#: wp-includes/rest-api.php:1143
+#: wp-includes/rest-api.php:1148
 msgid "%1$s must be between %2$d (inclusive) and %3$d (inclusive)"
 msgstr "%1$s必须介于%2$d（含）和%3$d（含）之间"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
-#: wp-includes/rest-api.php:1138
+#: wp-includes/rest-api.php:1143
 msgid "%1$s must be between %2$d (exclusive) and %3$d (inclusive)"
 msgstr "%1$s必须介于%2$d（不含）和%3$d（含）之间"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
-#: wp-includes/rest-api.php:1133
+#: wp-includes/rest-api.php:1138
 msgid "%1$s must be between %2$d (inclusive) and %3$d (exclusive)"
 msgstr "%1$s必须介于%2$d（含）和%3$d（不含）之间"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
-#: wp-includes/rest-api.php:1128
+#: wp-includes/rest-api.php:1133
 msgid "%1$s must be between %2$d (exclusive) and %3$d (exclusive)"
 msgstr "%1$s必须介于%2$d（不含）和%3$d（不含）之间"
 
 #. translators: %s: IP address
-#: wp-includes/rest-api.php:1101
+#: wp-includes/rest-api.php:1106
 msgid "%s is not a valid IP address."
 msgstr "%s不是有效的IP地址。"
 
 #. translators: 1: parameter, 2: type name
-#: wp-includes/rest-api.php:1049 wp-includes/rest-api.php:1067
-#: wp-includes/rest-api.php:1072 wp-includes/rest-api.php:1077
-#: wp-includes/rest-api.php:1082
+#: wp-includes/rest-api.php:1054 wp-includes/rest-api.php:1072
+#: wp-includes/rest-api.php:1077 wp-includes/rest-api.php:1082
+#: wp-includes/rest-api.php:1087
 msgid "%1$s is not of type %2$s."
 msgstr "%1$s的类型不是%2$s。"
 
 #. translators: 1: parameter, 2: list of valid values
-#: wp-includes/rest-api.php:1061
+#: wp-includes/rest-api.php:1066
 msgid "%1$s is not one of %2$s."
 msgstr "%1$s不是%2$s之一。"
 
@@ -2077,7 +2081,7 @@ msgstr "抱歉，您不能在此站点上传媒体。"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:272
 msgid "The REST API can no longer be completely disabled, the rest_authentication_errors filter can be used to restrict access to the API, instead."
-msgstr "REST API 不再能被完全禁用，不过您可以用“rest_authentication_errors” filter 来限制对该 API 的访问。"
+msgstr "REST API不再能被完全禁用，不过您可以用“rest_authentication_errors”过滤器来限制对该API的访问。"
 
 #: wp-includes/post.php:1384
 msgid "Page Attributes"
@@ -2247,7 +2251,7 @@ msgstr "点击来编辑站点标题。"
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:205
 msgid "Click to edit this widget."
-msgstr "点击来编辑此挂件。"
+msgstr "点击来编辑这个小工具。"
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:204
 msgid "Click to edit this menu."
@@ -2260,7 +2264,7 @@ msgstr "您可以在点击<strong>加入新图片</strong>后裁切图片，我�
 #. translators: %s: content: "";
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:257
 msgid "Imbalanced/unclosed character errors can be caused by %s declarations. You may need to remove this or add it to a custom CSS file."
-msgstr "有些时候，“未闭合”的错误是 %s 定义造成的。您可能需要删除它们。如果一定需要使用这些定义，您需要把它们加到自定义 CSS 文件里。"
+msgstr "有些时候，“未闭合”的错误是%s定义造成的。您可能需要删除它们。如果一定需要使用这些定义，您需要把它们加到自定义CSS文件里。"
 
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:171
 msgid "Markup is not allowed in CSS."
@@ -2306,12 +2310,12 @@ msgstr "抱歉，您的条目无法被发布。"
 #: wp-includes/class-wp-customize-widgets.php:799
 #: wp-includes/class-wp-customize-widgets.php:854
 msgid "No widgets found."
-msgstr "未找到挂件。"
+msgstr "未找到小工具。"
 
 #. translators: placeholder is the count for the number of widgets found
 #: wp-includes/class-wp-customize-widgets.php:798
 msgid "Number of widgets found: %d"
-msgstr "找到的挂件数：%d"
+msgstr "找到的小工具数目：%d"
 
 #. translators: %1$s is the post type name and %2$s is the error message.
 #: wp-includes/class-wp-customize-nav-menus.php:883
@@ -2851,7 +2855,7 @@ msgstr "抱歉，您不能列出用户。"
 #. translators: URL to the widgets panel of the customizer
 #: wp-includes/class-wp-customize-nav-menus.php:585
 msgid "You can also place menus in <a href=\"%s\">widget areas</a> with the &#8220;Custom Menu&#8221; widget."
-msgstr "您也可以在<a href=\"%s\">挂件区</a>使用“自定义菜单”挂件放置菜单。"
+msgstr "您也可以在<a href=\"%s\">小工具区域</a>使用“自定义菜单”小工具放置菜单。"
 
 #: wp-includes/class-wp-customize-manager.php:2376
 msgid "There is %s invalid setting."
@@ -3458,7 +3462,7 @@ msgstr "不能选择数据库"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:148
 msgid "The tag cloud will not be displayed since there are no taxonomies that support the tag cloud widget."
-msgstr "标签云未被显示，因为不存在支持标签云挂件的分类法。"
+msgstr "标签云未被显示，因为不存在支持标签云小工具的分类法。"
 
 #: wp-includes/user.php:2140
 msgid "Could not save password reset key to database."
@@ -3507,23 +3511,23 @@ msgstr "无效短代码名：指定了空名称。"
 msgid "Permalink saved"
 msgstr "永久链接已保存"
 
-#: wp-includes/rest-api.php:744
+#: wp-includes/rest-api.php:749
 msgid "Cookie nonce is invalid"
 msgstr "Cookie nonce无效"
 
 #. translators: 1: function name, 2: WordPress version number, 3: error message
-#: wp-includes/rest-api.php:521
+#: wp-includes/rest-api.php:526
 msgid "%1$s (since %2$s; %3$s)"
 msgstr "%1$s（自%2$s；%3$s）"
 
 #. translators: 1: function name, 2: WordPress version number
-#: wp-includes/rest-api.php:500 wp-includes/rest-api.php:524
+#: wp-includes/rest-api.php:505 wp-includes/rest-api.php:529
 msgid "%1$s (since %2$s; no alternative available)"
 msgstr "%1$s（自%2$s；无可用替代）"
 
 #. translators: 1: function name, 2: WordPress version number, 3: new function
 #. name
-#: wp-includes/rest-api.php:497
+#: wp-includes/rest-api.php:502
 msgid "%1$s (since %2$s; use %3$s instead)"
 msgstr "%1$s（自%2$s；请改用%3$s）"
 
@@ -3779,7 +3783,7 @@ msgstr[0] "%s<span class=\"screen-reader-text\">条评论</span>"
 
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:67
 msgid "When in reorder mode, additional controls to reorder widgets will be available in the widgets list above."
-msgstr "在重排模式中，挂件列表顶部将会出现额外的控件来让您重排挂件。"
+msgstr "在重排模式中，小工具列表顶部将会出现额外的控件来让您重排小工具。"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:75
 #: wp-includes/customize/class-wp-customize-themes-section.php:76
@@ -4033,7 +4037,7 @@ msgstr "菜单可在您的主题指定的位置显示。"
 #. translators: URL to the widgets panel of the customizer
 #: wp-includes/class-wp-customize-nav-menus.php:562
 msgid "Menus can be displayed in locations defined by your theme or in <a href=\"%s\">widget areas</a> by adding a &#8220;Custom Menu&#8221; widget."
-msgstr "菜单可在您的主题指定的位置显示，也可通过添加“自定义菜单”挂件来在<a href=\"%s\">挂件区</a>显示。"
+msgstr "菜单可在您的主题指定的位置显示，也可通过添加“自定义菜单”小工具来在<a href=\"%s\">小工具区域</a>显示。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:437
 #: wp-includes/class-wp-customize-widgets.php:795
@@ -4239,9 +4243,9 @@ msgctxt "Comma-separated list of words to texturize in your language"
 msgid "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
 msgstr "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
 
-#: wp-includes/default-widgets.php:187
-#: wp-includes/widgets/class-wp-widget-text.php:346
-#: wp-includes/widgets/class-wp-widget-text.php:407
+#: wp-includes/default-widgets.php:195
+#: wp-includes/widgets/class-wp-widget-text.php:370
+#: wp-includes/widgets/class-wp-widget-text.php:431
 msgid "Content:"
 msgstr "内容："
 
@@ -4620,7 +4624,7 @@ msgstr "分类法名的长度必须在1至32个字符间。"
 msgid "Could not split shared term."
 msgstr "未能分离共享项目。"
 
-#: wp-includes/theme.php:2971
+#: wp-includes/theme.php:2975
 msgid "Customizer"
 msgstr "定制器"
 
@@ -4806,7 +4810,7 @@ msgid "Distraction-free writing mode"
 msgstr "免打扰写作模式"
 
 #. translators: 1: Theme support 2: hook name
-#: wp-includes/theme.php:2419
+#: wp-includes/theme.php:2423
 msgid "Theme support for %1$s should be registered before the %2$s hook."
 msgstr "对%1$s主题的支持应在%2$s钩子之前注册。"
 
@@ -4857,7 +4861,7 @@ msgstr "分类法中已存在同名项目。"
 msgid "%s must set a database connection for use with escaping."
 msgstr "%s必须为转义设置数据库连接。"
 
-#: wp-includes/theme.php:2263
+#: wp-includes/theme.php:2267
 msgid "You need to pass an array of types."
 msgstr "您需要传入类型数组。"
 
@@ -5329,7 +5333,7 @@ msgstr "（WordPress无法建立到WordPress.org的安全连接，请联系您�
 
 #: wp-includes/class-wp-customize-widgets.php:1186
 msgid "Shift-click to edit this widget."
-msgstr "要编辑此挂件，按住Shift并点击鼠标。"
+msgstr "要编辑此小工具，按住Shift并点击鼠标。"
 
 #: wp-includes/class-wp-editor.php:1017
 msgctxt "HTML tag"
@@ -5477,7 +5481,7 @@ msgstr "搜索小工具"
 
 #: wp-includes/class-wp-customize-widgets.php:787
 msgid "Trash widget by moving it to the inactive widgets sidebar."
-msgstr "将挂件移动到不活跃挂件边栏。"
+msgstr "停用小工具，并将其移动到未启用的小工具侧栏。"
 
 #: wp-includes/class-wp-customize-widgets.php:785
 msgid "Save and preview changes before publishing them."
@@ -6107,7 +6111,7 @@ msgstr "发生了错误，请刷新此页面并重试。"
 
 #: wp-includes/class-wp-customize-widgets.php:722
 msgid "Select an area to move this widget into:"
-msgstr "选择挂件移动到的区域："
+msgstr "选择将小工具移动到的区域："
 
 #: wp-includes/class-wp-customize-nav-menus.php:930
 #: wp-includes/class-wp-customize-widgets.php:716
@@ -7070,7 +7074,7 @@ msgstr "请输入站点名称。"
 #: wp-includes/ms-functions.php:591
 msgid "Site name must be at least %s character."
 msgid_plural "Site name must be at least %s characters."
-msgstr[0] "站点名称至少 %s 个字符长。"
+msgstr[0] "站点名称至少%s个字符长。"
 
 #: wp-includes/class-wp-customize-manager.php:4181
 msgid "A static page"
@@ -9458,11 +9462,11 @@ msgstr "常规"
 
 #: wp-includes/class-wp-editor.php:1135
 msgid "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?"
-msgstr "您输入的链接似乎是个外部地址，您要自动加上 http:// 前缀吗？"
+msgstr "您输入的链接似乎是个外部地址，您要自动加上http://​前缀吗？"
 
 #: wp-includes/class-wp-editor.php:1133
 msgid "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?"
-msgstr "您输入的链接似乎是个邮件地址，您要自动加上 mailto: 前缀吗？"
+msgstr "您输入的链接似乎是个邮件地址，您要自动加上mailto:​前缀吗？"
 
 #: wp-includes/class-wp-editor.php:1206
 #: wp-includes/customize/class-wp-customize-background-position-control.php:56
@@ -9584,7 +9588,7 @@ msgstr "文档属性"
 
 #: wp-includes/class-wp-editor.php:1233 wp-includes/script-loader.php:463
 #: wp-includes/script-loader.php:574 wp-includes/script-loader.php:583
-#: wp-includes/script-loader.php:763 wp-includes/theme.php:2970
+#: wp-includes/script-loader.php:763 wp-includes/theme.php:2974
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr "离开这个页面，您所做的更改将丢失。"
 
@@ -10111,7 +10115,7 @@ msgstr "体现层级关系"
 msgid "Select Category"
 msgstr "选择分类目录"
 
-#: wp-includes/widgets/class-wp-widget-text.php:350
+#: wp-includes/widgets/class-wp-widget-text.php:374
 msgid "Automatically add paragraphs"
 msgstr "自动分段"
 
@@ -10382,7 +10386,7 @@ msgstr "站点"
 msgid "Separate tags with commas"
 msgstr "多个标签请用英文逗号（,）分开"
 
-#: wp-includes/default-widgets.php:182
+#: wp-includes/default-widgets.php:190
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:137
 #: wp-includes/widgets/class-wp-widget-archives.php:157
 #: wp-includes/widgets/class-wp-widget-calendar.php:104
@@ -10394,8 +10398,8 @@ msgstr "多个标签请用英文逗号（,）分开"
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:132
 #: wp-includes/widgets/class-wp-widget-search.php:71
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:127
-#: wp-includes/widgets/class-wp-widget-text.php:339
-#: wp-includes/widgets/class-wp-widget-text.php:368
+#: wp-includes/widgets/class-wp-widget-text.php:359
+#: wp-includes/widgets/class-wp-widget-text.php:392
 msgid "Title:"
 msgstr "标题："
 
@@ -10621,8 +10625,8 @@ msgid "Search"
 msgstr "搜索"
 
 #: wp-includes/script-loader.php:138 wp-includes/script-loader.php:299
-#: wp-includes/widgets/class-wp-widget-text.php:382
-#: wp-includes/widgets/class-wp-widget-text.php:397
+#: wp-includes/widgets/class-wp-widget-text.php:406
+#: wp-includes/widgets/class-wp-widget-text.php:421
 msgid "Dismiss"
 msgstr "不再显示"
 

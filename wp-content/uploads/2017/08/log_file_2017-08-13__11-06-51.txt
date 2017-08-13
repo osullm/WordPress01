@@ -1,0 +1,149 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\xampp\htdocs\wordpress/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = D:\xampp\htdocs\wordpress/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "ipad-606766_1280" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "4" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "4" (媒体)
+[ERROR] Failed to import "imac-606765_1280" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "men-521540_640" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "statue-of-liberty-539318_640" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "sydneyp1" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "lake-871708_1280" (媒体)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "c3" (媒体)
+
+
+---Importing widgets---
+sidebar-above-header : Sidebar does not exist in theme (moving widget to Inactive)
+
+搜索 - No Title - Imported to Inactive
+近期文章 - No Title - Imported to Inactive
+近期评论 - No Title - Imported to Inactive
+文章归档 - No Title - Imported to Inactive
+分类目录 - No Title - Imported to Inactive
+功能 - No Title - Imported to Inactive
+
+Sidebar : 
+
+搜索 - No Title - Widget already exists
+近期文章 - No Title - Imported
+日历 - No Title - Imported
+
+Footer 1 : 
+
+Sydney: Video - No Title - Imported
+
+Footer 2 : 
+
+文本 - No Title - Imported
+
+Footer 3 : 
+
+Sydney: Contact info - Get in touch - Imported
+
+
+
+---pt-ocdi/after_import---
+

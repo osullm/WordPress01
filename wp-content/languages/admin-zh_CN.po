@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-07-23 09:36:20+0000\n"
+"PO-Revision-Date: 2017-07-23 20:54:57+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,120 +26,120 @@ msgctxt "start of week"
 msgid "1"
 msgstr "1"
 
-#: wp-admin/about.php:196
+#: wp-admin/about.php:218
 msgid "New capabilities have been introduced to 4.8 with an eye towards removing calls to <code>is_super_admin()</code>. Additionally, new hooks and tweaks to more granularly control site and user counts per network have been added."
-msgstr "版本 4.8 中引入了一些新的功能，目的是移除对 <code>is_super_admin()</code> 的调用。此外，新增了一些 hook 和设置用以更精确地控制站点和用户计数功能。"
+msgstr "版本4.8中引入了一些新的功能，目的是移除对<code>is_super_admin()</code>的调用。此外，新增了一些hook和设置用以更精确地控制站点和用户计数功能。"
 
-#: wp-admin/about.php:151
+#: wp-admin/about.php:173
 msgid "Being part of the community can help you improve your WordPress skills and network with people you wouldn&#8217;t otherwise meet. Now you can easily find your local events just by logging in to your dashboard and looking at the new Events and News dashboard widget."
-msgstr "加入并作为社区的一员，能提高你的 WordPress 技术，结识未曾谋面的人们。现在你可以登入管理界面，在新增的活动和新闻小工具中轻松地找到你附近的活动。"
+msgstr "加入并作为社区的一员，能提高您的WordPress技术，结识未曾谋面的人们。现在您可以登入管理界面，在新增的活动和新闻小工具中轻松地找到您附近的活动。"
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:171
 msgid "This is quickly becoming one of our favorite features. While you are in the dashboard (because you&#8217;re running updates and writing posts, right?) all upcoming WordCamps and WordPress Meetups &mdash; local to you &mdash; will be displayed."
-msgstr "这迅速地成为了我们喜爱的功能之一。当你在仪表盘时（你也许在运行更新或撰写文章），所有即将在你附近举办的 WordCamp 和 WordPress 聚会都会显示出来。"
+msgstr "这迅速地成为了我们喜爱的功能之一。当您在仪表盘时（您也许在运行更新或撰写文章），所有即将在您附近举办的WordCamp和WordPress聚会都会显示出来。"
 
-#: wp-admin/about.php:147
+#: wp-admin/about.php:169
 msgid "Did you know that WordPress has a thriving offline community with groups meeting regularly in more than 400 cities around the world? WordPress now draws your attention to the events that help you continue improving your WordPress skills, meet friends, and, of course, publish!"
-msgstr "你知道吗？WordPress 拥有丰富的线下社区，并经常在全球 400 多个城市举行聚会。现在 WordPress 通过这些活动帮助持续提高你的 WordPress 技巧，结识朋友，当然，还有发表文章！"
+msgstr "你知道吗？WordPress拥有丰富的线下社区，并经常在全球400多个城市举行聚会。现在WordPress通过这些活动帮助持续提高你的WordPress技巧，结识朋友，当然，还有发表文章！"
 
-#: wp-admin/about.php:126
+#: wp-admin/about.php:148
 msgid "Have you ever tried updating a link, or the text around a link, and found you can&#8217;t seem to edit it correctly? When you edit the text after the link, your new text also ends up linked. Or you edit the text in the link, but your text ends up outside of it. This can be frustrating! With link boundaries, a great new feature, the process is streamlined and your links will work well. You’ll be happier. We promise."
-msgstr "你是否在更新链接，或更改链接周围的文字的时候发现无法正确编辑？例如，在编辑链接后面的文字之后发现那些新输入的文字也变成了链接，或是编辑的链接文本没有在链接之内。现在通过一个“链接边界”的新功能，你可以更顺畅地处理这些链接使其正常工作，我们保证。"
+msgstr "您是否在更新链接、或更改链接周围的文字的时候发现无法正确编辑？例如，在编辑链接后面的文字之后发现那些新输入的文字也变成了链接，或是编辑的链接文本没有在链接之内。现在通过一个“链接边界”的新功能，您可以更顺畅地处理这些链接使其正常工作，我们保证。"
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:139
 msgid "This feature deserves a parade down the center of town! Rich-text editing capabilities are now native for Text widgets. Add a widget anywhere and format away. Create lists, add emphasis, and quickly and easily insert links. Have fun with your newfound formatting powers, and watch what you can accomplish in a short amount of time."
-msgstr "这项功能值得拿出来说一说！现在文字小工具也有原生的富文本编辑权限了。你可以在任意地方添加这个小工具并格式化，创建列表、划上重点、轻松快捷地插入链接。希望你用这个新的格式化功能玩得开心，并看看你能在短时间内用它来干些什么。"
+msgstr "这项功能值得拿出来说一说！现在文字小工具也有原生的富文本编辑权限了。您可以在任意地方添加这个小工具并格式化，创建列表、划上重点、轻松快捷地插入链接。希望您用这个新的格式化功能玩得开心，并看看您能在短时间内用它来干些什么。"
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:131
 msgid "A welcome video is a great way to humanize the branding of your website. You can now add any video from the Media Library to a sidebar on your site with the new Video widget. Use this to showcase a welcome video to introduce visitors to your site or promote your latest and greatest content."
 msgstr "加一个欢迎视频可以让您站点的个性更加突出。配合新的视频小工具，您可以往站点侧边栏中添加媒体库里的任何视频。"
 
-#: wp-admin/about.php:105
+#: wp-admin/about.php:127
 msgid "Adding an image to a widget is now a simple task that is achievable for any WordPress user without needing to know code. Simply insert your image right within the widget settings. Try adding something like a headshot or a photo of your latest weekend adventure &mdash; and see it appear automatically."
-msgstr "向小工具添加图片现在是一件简单的任务，任何一个 WordPress 用户不需要了解程序代码都能实现。只需将图片直接插入小工具中设置下即可。试着添加一些像是大头照或者你上周末探险时的照片，然后观察它是如何自动出现的。"
+msgstr "向小工具添加图片现在是一件简单的任务，任何一个WordPress用户不需要了解程序代码都能实现。只需将图片直接插入小工具中设置下即可。试着添加一些像是大头照或者您上周末探险时的照片，然后观察它是如何自动出现的。"
 
-#: wp-admin/about.php:50
+#: wp-admin/about.php:72
 msgid "Though some updates seem minor, they&#8217;ve been built by hundreds of contributors with <em>you</em> in mind. Get ready for new features you&#8217;ll welcome like an old friend: link improvements, <em>three</em> new media widgets covering images, audio, and video, an updated text widget that supports visual editing, and an upgraded news section in your dashboard which brings in nearby and upcoming WordPress events."
 msgstr "上百个贡献者围绕了<em>您的</em>使用体验做出了无数大大小小的改进。我们相信您会喜欢比如这些新功能：更强大的链接工具；<em>三个</em>边栏小工具（图像、视频、音频）；支持可视化编辑的文字小工具；还有仪表盘页面上新增的“新闻”栏目（显示您附近的线下活动）。"
 
 #: wp-admin/about.php:37 wp-admin/credits.php:23 wp-admin/freedoms.php:22
 msgid "Thank you for updating to the latest version! WordPress %s adds more ways for you to express yourself and represent your brand."
-msgstr "感谢你升级到最新版本！WordPress %s 为你提供了更多表现自我和展示品牌的方式。"
+msgstr "感谢您升级到最新版本！WordPress %s为您提供了更多表现自我和展示品牌的方式。"
 
-#: wp-admin/about.php:204
+#: wp-admin/about.php:226
 msgid "The introduction of a new base media widget REST API schema to 4.8 opens up possibilities for even more media widgets (like galleries or playlists) in the future. The three new media widgets are powered by a shared base class that covers most of the interactions with the media modal. That class also makes it easier to create new media widgets and paves the way for more to come."
-msgstr "4.8 版本引入了一个新的底层多媒体小工具 REST API 架构，为未来更多多媒体小工具（例如画廊和播放列表）带来了可能性。这三个新的多媒体小工具由一个共享的底层类打造，涵盖了大部分多媒体模型的交互。这个类也令创建新的多媒体小工具变得更容易，并为未来更多的功能铺平了道路。"
+msgstr "4.8版本引入了一个新的底层多媒体小工具REST API架构，为未来更多多媒体小工具（例如画廊和播放列表）带来了可能性。这三个新的多媒体小工具由一个共享的底层类打造，涵盖了大部分多媒体模型的交互。这个类也令创建新的多媒体小工具变得更容易，并为未来更多的功能铺平了道路。"
 
-#: wp-admin/about.php:203
+#: wp-admin/about.php:225
 msgid "Media Widgets API"
-msgstr "多媒体小工具 API"
+msgstr "多媒体小工具API"
 
-#: wp-admin/about.php:208
+#: wp-admin/about.php:230
 msgid "Rejoice! New responsive breakpoints have been added to the customizer sidebar to make it wider on high-resolution screens. Customizer controls should use percentage-based widths instead of pixels."
 msgstr "吼啊！新的响应式断点已经被添加到了自定义边栏，这会使得它在高分辨率屏幕上更宽一些。自定义控制项应该使用基于百分比的宽度而不是像素。"
 
-#: wp-admin/about.php:207
+#: wp-admin/about.php:229
 msgid "Customizer Width Variable"
 msgstr "宽度可调的主题/插件自定义工具"
 
-#: wp-admin/about.php:200
+#: wp-admin/about.php:222
 msgid "With the addition of TinyMCE to the text widget in 4.8 comes a new JavaScript API for instantiating the editor after page load. This can be used to add an editor instance to any text area, and customize it with buttons and functions. Great for plugin authors!"
-msgstr "插件开发者注意啦！在 4.8 版本的文本小工具增加了 TinyMCE 的同时，还添加了新的 JavaScript API，在页面加载后初始化编辑器。可以用它来往任何文本框添加编辑器实例，往编辑器上添加功能和按钮。"
+msgstr "插件开发者注意啦！在4.8版本的文本小工具增加了TinyMCE的同时，还添加了新的JavaScript API，在页面加载后初始化编辑器。可以用它来往任何文本框添加编辑器实例，往编辑器上添加功能和按钮。"
 
-#: wp-admin/about.php:199
+#: wp-admin/about.php:221
 msgid "Text-Editor JavaScript API"
-msgstr "文本编辑器 JavaScript API"
+msgstr "文本编辑器JavaScript API"
 
-#: wp-admin/about.php:195
+#: wp-admin/about.php:217
 msgid "Multisite Updates"
 msgstr "多站点更新"
 
-#: wp-admin/about.php:192
+#: wp-admin/about.php:214
 msgid "As fewer and fewer browsers support Silverlight, file formats which require the presence of the Silverlight plugin are being removed from core support. Files will still display as a download link, but will no longer be embedded automatically."
-msgstr "随着越来越少的浏览器支持 Silverlight，需要 Silverlight 插件才能正常显示的文件格式正在从核心代码中被移除。文件仍将显示为一个下载链接，但不再被自动嵌入。"
+msgstr "随着越来越少的浏览器支持Silverlight，需要Silverlight插件才能正常显示的文件格式正在从核心代码中被移除。文件仍将显示为一个下载链接，但不再被自动嵌入。"
 
-#: wp-admin/about.php:191
+#: wp-admin/about.php:213
 msgid "Removal of Core Support for WMV and WMA Files"
-msgstr "移除核心代码中对 WMV 和 WMA 文件的支持"
+msgstr "移除核心代码中对WMV和WMA文件的支持"
 
-#: wp-admin/about.php:188
+#: wp-admin/about.php:210
 msgid "New CSS rules mean extraneous content (like &ldquo;Add New&rdquo; links) no longer need to be included in admin-area headings. These panel headings improve the experience for people using assistive technologies."
-msgstr "新的 CSS 规则意味着多余的内容（比如“新增”链接）不再需要被包含到管理区域的标题中。这些面板标题改善了使用辅助技术的用户的体验。"
+msgstr "新的CSS规则意味着多余的内容（比如“新增”链接）不再需要被包含到管理区域的标题中。这些面板标题改善了使用辅助技术的用户的体验。"
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:209
 msgid "More Accessible Admin Panel Headings"
 msgstr "和辅助访问功能更兼容的后台页面标题"
 
-#: wp-admin/about.php:56
+#: wp-admin/about.php:78
 msgid "Exciting Widget Updates"
 msgstr "令人兴奋的小工具更新"
 
-#: wp-admin/about.php:49
+#: wp-admin/about.php:71
 msgid "WordPress 4.8 adds some great new features. Gear up for a more intuitive WordPress!"
-msgstr "WordPress 4.8 增加了一些很棒的新功能。准备好使用更直观的 WordPress 吧！"
+msgstr "WordPress 4.8增加了一些很棒的新功能。准备好使用更直观的WordPress吧！"
 
-#: wp-admin/about.php:48
+#: wp-admin/about.php:70
 msgid "An Update with You in Mind"
 msgstr "一个围绕您体验的更新"
 
 #. translators: meetup organization documentation URL.
 #: wp-admin/includes/dashboard.php:1262
 msgid "There aren&#8217;t any events scheduled near you at the moment. Would you like to <a href=\"%s\">organize one</a>?"
-msgstr "目前没有任何安排在你附近的活动。你想要<a href=\"%s\">组织一个</a>吗？"
+msgstr "目前没有任何安排在您附近的活动。您想要<a href=\"%s\">组织一个</a>吗？"
 
-#: wp-admin/about.php:145
+#: wp-admin/about.php:167
 msgid "Nearby WordPress Events"
-msgstr "附近的 WordPress 活动"
+msgstr "附近的WordPress活动"
 
-#: wp-admin/about.php:116
+#: wp-admin/about.php:138
 msgid "Rich Text Widget"
 msgstr "富文本小工具"
 
-#: wp-admin/about.php:113
+#: wp-admin/about.php:135
 msgid "Are you a podcaster, musician, or avid blogger? Adding a widget with your audio file has never been easier. Upload your audio file to the Media Library, go to the widget settings, select your file, and you&#8217;re ready for listeners. This would be a easy way to add a more personal welcome message, too!"
-msgstr "你是一位播客、音乐家或者狂热的博客吗？使用小工具播放音乐文件从未如此简单。上传你的音频文件到媒体库，再到小工具的设置里选择你的文件，这样就准备好播放给听众了。这也是一种简单的增加个性化欢迎信息的方法！"
+msgstr "您是一位播客、音乐家或者狂热的博主吗？使用小工具播放音乐文件从未如此简单。上传您的音频文件到媒体库，再到小工具的设置里选择您的文件，这样就准备好播放给听众了。这也是一种简单的增加个性化欢迎信息的方法！"
 
-#: wp-admin/about.php:125
+#: wp-admin/about.php:147
 msgid "Link Boundaries"
 msgstr "链接边界"
 
@@ -160,7 +160,7 @@ msgstr "https://make.wordpress.org/community/handbook/meetup-organizer/welcome/"
 #. documentation URL
 #: wp-admin/includes/dashboard.php:1254
 msgid "There aren&#8217;t any events scheduled near %1$s at the moment. Would you like to <a href=\"%2$s\">organize one</a>?"
-msgstr "目前没有任何安排在%1$s附近的活动。你想要<a href=\"%2$s\">组织一个</a>吗？ "
+msgstr "目前没有任何安排在%1$s附近的活动。您想要<a href=\"%2$s\">组织一个</a>吗？ "
 
 #. translators: %s is a placeholder for the name of a city.
 #: wp-admin/includes/dashboard.php:1211
@@ -201,7 +201,7 @@ msgstr "WordPress活动及新闻"
 #. day of the week. See https://secure.php.net/date.
 #: wp-admin/includes/class-wp-community-events.php:387
 msgid "l, M j, Y"
-msgstr "Y 年 n 月 j 日"
+msgstr "Y年n月j日"
 
 #: wp-admin/includes/class-wp-community-events.php:116
 msgid "Unknown API error."
@@ -211,14 +211,14 @@ msgstr "未知的API错误。"
 #. etc.
 #: wp-admin/includes/class-wp-community-events.php:111
 msgid "Invalid API response code (%d)"
-msgstr "API 响应代码无效（%d）"
+msgstr "API响应代码无效（%d）"
 
 #: wp-admin/edit-tag-form.php:170 wp-admin/edit-tags.php:444
 msgid "Assign a parent term to create a hierarchy. The term Jazz, for example, would be the parent of Bebop and Big Band."
 msgstr "分配一个父类可以创建层次结构。比如“Twitter”和“Facebook”的父分类可以是“境外反动网站”。"
 
 #. translators: %s: smiling face with smiling eyes emoji
-#: wp-admin/about.php:180
+#: wp-admin/about.php:202
 msgid "Even More Developer Happiness %s"
 msgstr "更多开发者的快乐%s"
 
@@ -503,7 +503,7 @@ msgstr "有新版本可用。<button class=\"button-link\" type=\"button\">现�
 
 #: wp-admin/theme-install.php:149
 msgid "The Theme Installer screen requires JavaScript."
-msgstr "主题安装页面需要JavaScript。"
+msgstr "主题安装器需要JavaScript。"
 
 #: wp-admin/theme-editor.php:18
 msgid "Sorry, you are not allowed to edit templates for this site."
@@ -651,7 +651,7 @@ msgstr "博客"
 
 #: wp-admin/includes/theme.php:259
 msgid "Footer Widgets"
-msgstr "页脚挂件"
+msgstr "页脚小工具"
 
 #: wp-admin/includes/theme.php:238
 msgid "Grid Layout"
@@ -800,7 +800,7 @@ msgstr "发布设计主管"
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:681
 msgid "Allow <a href=\"%s\">trackbacks and pingbacks</a> on this page"
-msgstr "这个页面允许 <a href=\"%s\">trackbacks 和 pingbacks</a>"
+msgstr "这个页面允许<a href=\"%s\">trackbacks和pingbacks</a>"
 
 #: wp-admin/includes/meta-boxes.php:660
 msgid "https://codex.wordpress.org/Using_Custom_Fields"
@@ -1268,7 +1268,7 @@ msgid "Welcome to %s. This is your first post. Edit or delete it, then start blo
 msgstr "欢迎来到%s。这是您的第一篇文章。编辑或删除它，然后开始写博客吧！"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:242
+#: wp-admin/about.php:264
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>版本%s</strong>修正了一个安全问题。"
 
@@ -1285,15 +1285,15 @@ msgstr "您可以在<a href=\"%s\">Gravatar</a>修改您的资料图片。"
 msgid "Profile Picture"
 msgstr "资料图片"
 
-#: wp-admin/about.php:239
+#: wp-admin/about.php:261
 msgid "Maintenance and Security Releases"
 msgstr "维护和安全更新"
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:258
 msgid "Security Releases"
 msgstr "安全更新"
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:255
 msgid "Maintenance Releases"
 msgstr "维护更新"
 
@@ -1446,7 +1446,7 @@ msgstr "这会从未启用的小工具列表中清除所有项目，您将无法
 
 #: wp-admin/widgets.php:431
 msgid "Clear Inactive Widgets"
-msgstr "清理无效挂件"
+msgstr "清理未启用的小工具"
 
 #: wp-admin/users.php:134
 msgid "One of the selected users is not a member of this site."
@@ -2062,7 +2062,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Plugins_Editor_Screen\">编辑插�
 
 #: wp-admin/widgets.php:76
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Widgets_Screen\">Documentation on Widgets</a>"
-msgstr "<a href=\"https://codex.wordpress.org/Appearance_Widgets_Screen\">挂件文档</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Widgets_Screen\">小工具文档</a>"
 
 #: wp-admin/index.php:98
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_Screen\">Documentation on Dashboard</a>"
@@ -2269,7 +2269,7 @@ msgstr "您不能安装，因为<a href=\"https://codex.wordpress.org/Version_%1
 
 #: wp-admin/widgets.php:81
 msgid "The theme you are currently using isn&#8217;t widget-aware, meaning that it has no sidebars that you are able to change. For information on making your theme widget-aware, please <a href=\"https://codex.wordpress.org/Widgetizing_Themes\">follow these instructions</a>."
-msgstr "您当前使用的主题并不支持挂件，这意味着它没有可供修改的侧边栏。要查看如何才能使您的主题支持挂件，请<a href=\"https://codex.wordpress.org/Widgetizing_Themes\">遵循这些说明</a>。"
+msgstr "您当前使用的主题并不支持小工具功能，这意味着它没有可供修改的侧边栏。要查看如何才能使您的主题支持小工具，请<a href=\"https://codex.wordpress.org/Widgetizing_Themes\">遵循这些说明</a>。"
 
 #: wp-admin/plugin-editor.php:292 wp-admin/theme-editor.php:279
 msgid "You need to make this file writable before you can save your changes. See <a href=\"https://codex.wordpress.org/Changing_File_Permissions\">the Codex</a> for more information."
@@ -3735,7 +3735,7 @@ msgstr "在编辑器中<strong>点击任一菜单项目标题右侧的箭头</st
 #. themes
 #: wp-admin/nav-menus.php:522
 msgid "Menus can be displayed in locations defined by your theme, even used in sidebars by adding a &#8220;Custom Menu&#8221; widget on the <a href=\"%1$s\">Widgets</a> screen. If your theme does not support the custom menus feature (the default themes, %2$s and %3$s, do), you can learn about adding this support by following the Documentation link to the side."
-msgstr "菜单可在您的主题指定的位置显示，或通过<a href=\"%1$s\">小工具</a>中的“自定义菜单”挂件显示在侧栏中。如果您的主题不支持自定义菜单功能（默认主题%2$s和%3$s均支持），您可以查阅侧面的文档链接了解如何加入这一支持。"
+msgstr "菜单可在您的主题指定的位置显示，或通过<a href=\"%1$s\">小工具</a>中的“自定义菜单”小工具显示在侧栏中。如果您的主题不支持自定义菜单功能（默认主题%2$s和%3$s均支持），您可以查阅侧面的文档链接了解如何加入这一支持。"
 
 #: wp-admin/nav-menus.php:517
 msgid "Your theme does not natively support menus, but you can use them in sidebars by adding a &#8220;Custom Menu&#8221; widget on the <a href=\"%s\">Widgets</a> screen."
@@ -4211,7 +4211,7 @@ msgstr "菜单结构"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:206
 msgid "To the top"
-msgstr "回顶部"
+msgstr "最顶"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:203
 msgid "Down one"
@@ -4223,7 +4223,7 @@ msgstr "上一位"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:201
 msgid "Move"
-msgstr "移动"
+msgstr "移动至"
 
 #: wp-admin/includes/template.php:2068
 msgid "Restore the backup"
@@ -4264,7 +4264,7 @@ msgstr "在下方编辑您的菜单，或<a href=\"%s\">创建新菜单</a>。"
 
 #: wp-admin/includes/ms.php:797
 msgid "Thank you for Updating! Please visit the <a href=\"%s\">Upgrade Network</a> page to update all your sites."
-msgstr "多谢升级 WordPress！请使用<a href=\"%s\">升级网络</a>页面来升级您的所有站点。"
+msgstr "多谢升级WordPress！请使用<a href=\"%s\">升级网络</a>页面来升级您的所有站点。"
 
 #: wp-admin/setup-config.php:402
 msgid "All right, sparky! You&#8217;ve made it through this part of the installation. WordPress can now communicate with your database. If you are ready, time now to&hellip;"
@@ -4305,7 +4305,7 @@ msgstr "“文档”菜单列出了我们从该文件中找到的所有函数。
 #: wp-admin/includes/class-wp-posts-list-table.php:911
 #: wp-admin/includes/misc.php:749
 msgid "%s is currently editing"
-msgstr "%s 当前正在编辑。"
+msgstr "%s当前正在编辑。"
 
 #: wp-admin/edit-form-advanced.php:419
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
@@ -4490,11 +4490,11 @@ msgstr "对搜索引擎的可见性"
 
 #: wp-admin/options-reading.php:25
 msgid "You can also control the display of your content in RSS feeds, including the maximum number of posts to display and whether to show full text or a summary."
-msgstr "您也可以控制 RSS feed 的显示方式：最大输出文章数、全文输出或仅输出摘要。"
+msgstr "您也可以控制RSS feed的显示方式：最大输出文章数、全文输出或仅输出摘要。"
 
 #: wp-admin/includes/update-core.php:1230 wp-admin/update-core.php:501
 msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%2$s\">here</a>."
-msgstr "欢迎使用WordPress %1$s。我们将带您到“关于 WordPress”页面。如果没有自动跳转，请<a href=\"%2$s\">点击这里</a>。"
+msgstr "欢迎使用WordPress %1$s。我们将带您到“关于WordPress”页面。如果没有自动跳转，请<a href=\"%2$s\">点击这里</a>。"
 
 #: wp-admin/includes/plugin-install.php:327 wp-admin/theme-install.php:190
 msgid "Get Favorites"
@@ -5352,44 +5352,44 @@ msgid "Contributing Developers"
 msgstr "贡献开发者"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:247
+#: wp-admin/about.php:52 wp-admin/about.php:269
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
-msgstr[0] "<strong>%1$s 版本</strong>修复了 %2$s 个问题。"
+msgstr[0] "<strong>%1$s版本</strong>修复了%2$s个问题。"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:255
+#: wp-admin/about.php:277
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] "<strong>%1$s 版本</strong>修补了安全漏洞、修正了 %2$s 个问题。"
+msgstr[0] "<strong>%1$s版本</strong>修补了安全漏洞、修正了%2$s个问题。"
 
 #. translators: %s: Codex URL
-#: wp-admin/about.php:259
+#: wp-admin/about.php:63 wp-admin/about.php:281
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "欲了解更多，参见<a href=\"%s\">发行注记</a>。"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:251
+#: wp-admin/about.php:273
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
-msgstr[0] "<strong>%1$s 版本</strong>修补了安全漏洞、修正了 %2$s 个问题。"
+msgstr[0] "<strong>%1$s版本</strong>修补了安全漏洞、修正了%2$s个问题。"
 
 #: wp-admin/index.php:35
 msgid "Welcome to your WordPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of WordPress. You can get help for any screen by clicking the Help tab above the screen title."
 msgstr "欢迎访问WordPress仪表盘！在您每次登录站点后，您都会看到本页面。您可以在这里访问WordPress的各种管理页面。点击任何页面标题上方的“帮助”选项卡可阅读相应帮助信息。"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:244
+#: wp-admin/about.php:266
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>版本%s</strong>修正了一些安全问题。"
 
-#: wp-admin/about.php:232
+#: wp-admin/about.php:47 wp-admin/about.php:254
 msgid "Maintenance Release"
 msgstr "维护更新"
 
-#: wp-admin/about.php:235
+#: wp-admin/about.php:257
 msgid "Security Release"
 msgstr "安全更新"
 
@@ -5397,7 +5397,7 @@ msgstr "安全更新"
 msgid "What&#8217;s New"
 msgstr "更新内容"
 
-#: wp-admin/about.php:238
+#: wp-admin/about.php:260
 msgid "Maintenance and Security Release"
 msgstr "维护和安全更新"
 
@@ -5409,7 +5409,7 @@ msgstr "这个画面可以让您选择您的永久链接结构。您可以选择
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "欢迎使用WordPress %1$s。<a href=\"%2$s\">了解更多</a>。"
 
-#: wp-admin/about.php:218
+#: wp-admin/about.php:240
 msgid "Return to Updates"
 msgstr "返回“更新”"
 
@@ -5689,11 +5689,11 @@ msgstr "您使用的插件或主题为了使用add_meta_box()似乎直接包含�
 msgid "Welcome to WordPress %s"
 msgstr "欢迎使用WordPress %s"
 
-#: wp-admin/about.php:218
+#: wp-admin/about.php:240
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "返回“仪表盘” &rarr; “更新”"
 
-#: wp-admin/about.php:221
+#: wp-admin/about.php:243
 msgid "Go to Dashboard &rarr; Home"
 msgstr "前往“仪表盘” &rarr; “首页”"
 
@@ -6205,7 +6205,7 @@ msgstr "在WordPress.org插件和主题目录中的内容均完全遵循GPL或�
 
 #: wp-admin/freedoms.php:41
 msgid "WordPress grows when people like you tell their friends about it, and the thousands of businesses and services that are built on and around WordPress share that fact with their users. We&#8217;re flattered every time someone spreads the good word, just make sure to <a href=\"%s\">check out our trademark guidelines</a> first."
-msgstr "WordPress凭借您的力量进行宣传，并发展壮大——每次您和朋友赞扬它，或者一些公司使用 WordPress 来制作公司网站，甚至创建一些服务时。我们喜欢被赞扬的感觉，不过希望您<a href=\"%s\">关注我们的商标使用准则</a>。"
+msgstr "WordPress凭借您的力量进行宣传，并发展壮大——每次您和朋友赞扬它，或者一些公司使用WordPress来制作公司网站，甚至创建一些服务时。我们喜欢被赞扬的感觉，不过希望您<a href=\"%s\">关注我们的商标使用准则</a>。"
 
 #: wp-admin/freedoms.php:32
 msgid "WordPress is Free and open source software, built by a distributed community of mostly volunteer developers from around the world. WordPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
@@ -6407,13 +6407,13 @@ msgid ""
 msgstr ""
 "这是示范页面。页面和博客文章不同，它的位置是固定的，通常会在站点导航栏显示。很多用户都创建一个“关于”页面，向访客介绍自己。例如：\n"
 "\n"
-"<blockquote>欢迎！我白天是个邮递员，晚上就是个有抱负的演员。这是我的博客。我住在天朝的帝都，有条叫做 Jack 的狗。</blockquote>\n"
+"<blockquote>欢迎！我白天是个邮递员，晚上就是个有抱负的演员。这是我的博客。我住在天朝的帝都，有条叫做Jack的狗。</blockquote>\n"
 "\n"
-"... 或这个：\n"
+"……或这个：\n"
 "\n"
-"<blockquote>XYZ Doohickey 公司成立于 1971 年，自从建立以来，我们一直向社会贡献着优秀 doohickies。我们的公司总部位于天朝魔都，有着超过两千名员工，对魔都政府税收有着巨大贡献。</blockquote>\n"
+"<blockquote>XYZ Doohickey公司成立于1971年，自从建立以来，我们一直向社会贡献着优秀doohickies。我们的公司总部位于天朝魔都，有着超过两千名员工，对魔都政府税收有着巨大贡献。</blockquote>\n"
 "\n"
-"而您，作为一个 WordPress 用户，我们建议您访问<a href=\"%s\">控制板</a>，删除本页面，然后添加您自己的页面。祝您使用愉快！"
+"而您，作为一个WordPress用户，我们建议您访问<a href=\"%s\">控制板</a>，删除本页面，然后添加您自己的页面。祝您使用愉快！"
 
 #: wp-admin/user-edit.php:380
 msgid "Super admin privileges cannot be removed because this user has the network admin email."
@@ -6545,7 +6545,7 @@ msgstr "在此页面，您可编辑媒体库中文件的5项属性。"
 
 #: wp-admin/edit-form-advanced.php:406 wp-admin/media.php:76
 msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
-msgstr "对于图片，您可点击缩略图下方的“编辑图像”，之后就会弹出一个快捷图片编辑器 —— 您可以裁切、旋转、翻转图片。您还可以撤销或重做操作。在编辑器的右侧，您可以对图片剪裁等进行更详尽的设置。您可以点击“帮助”以了解更多。"
+msgstr "对于图片，您可点击缩略图下方的“编辑图像”，之后就会弹出一个快捷图片编辑器——您可以裁切、旋转、翻转图片。您还可以撤销或重做操作。在编辑器的右侧，您可以对图片剪裁等进行更详尽的设置。您可以点击“帮助”以了解更多。"
 
 #: wp-admin/edit-form-advanced.php:407 wp-admin/media.php:77
 msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
@@ -7449,7 +7449,7 @@ msgstr "保存菜单"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:182
 msgid "CSS Classes (optional)"
-msgstr "CSS 类（可选）"
+msgstr "CSS类（可选）"
 
 #: wp-admin/includes/nav-menu.php:978
 msgid "Link Target"
@@ -7553,7 +7553,7 @@ msgstr "查看所有"
 msgid "Please enter a valid menu name."
 msgstr "请输入有效的菜单名称。"
 
-#: wp-admin/about.php:221
+#: wp-admin/about.php:243
 msgid "Go to Dashboard"
 msgstr "前往“仪表盘”"
 
